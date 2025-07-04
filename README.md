@@ -1,4 +1,5 @@
-# ncedm
+# navigating consumer decision making in e-commerce
+#final return prediction model
 
 1. Preprocessing Steps:
 
