@@ -20,4 +20,6 @@ Evaluated the model using accuracy and classification metrics
 
 Z-score filtering helped reduce noise/outliers and hence boost model performance
 
-4. Compared the results with different models such as Random Forest, Decision Tree and Pruned Decision tree.
+4. Comparison
+
+Compared the results with different models such as Random Forest, Decision Tree and Pruned Decision tree.
